@@ -1,16 +1,24 @@
-# quiz_essay
+# Quiz Essay
 
-A new Flutter project.
+- Muhammad Abdanul Ikhlas - 123210009
 
-## Getting Started
+## Deskripsi
+Aplikasi mobile sederhana yang terdiri dari beberapa menu dan fitur. Berikut adalah detailnya:
 
-This project is a starting point for a Flutter application.
+- **Menu Biodata**
+- **Menu Perhitungan Trapesium :** Menghitung luas dan keliling trapesium
+- **Menu Perhitungan Kubus     :**  Menghitung Volume dan keliling trapesium
+- **Menu Konversi Hari         :**  Menghitung Volume dan keliling trapesium
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center" style="display: flex; justify-content: center;">
+  <h1>Tampilan</h1>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="./docs/docs1.png" alt="biodata" width="157">&nbsp;
+  <img src="./docs/docs2.png" alt="geometri" width="157">&nbsp;
+  <img src="./docs/docs3.png" alt="trapesium" width="157">&nbsp;
+  <img src="./docs/docs4.png" alt="kubus" width="157">&nbsp;
+  <img src="./docs/docs5.png" alt="hari" width="157">
+</div>
